@@ -1,6 +1,6 @@
 
-/*This macro is related to the publication "Poji: a Fiji-based tool for analysis of podosomes and associated proteins" in Journal of Cell Science by Herzog et al. 2020 (doi: XXX).
-For advice on using this macro, as well as for concept of proof, please refer to the linked publication and also to the user guide that is added in the supplementary information.
+/*This macro is related to the publication "Poji: a Fiji-based tool for analysis of podosomes and associated proteins" in Journal of Cell Science by Herzog et al. 2020, doi: 10.1242/jcs.238964. For concept of proof, please refer to the linked publication.
+Macro, userguide and associated Excel tables are available online at https://github.com/roherzog/Poji and at http://www.linderlab.de/tools. For further advices on using the macro and associated tables, please refer to the userguide.
 If you publish data that were obtained by using this macro, please cite the original publication accordingly!
 @ Author: Robert Herzog, 2020
 */
