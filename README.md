@@ -2,7 +2,7 @@
 
 The tools that are deposited here, relate to the publication:
 
-*"Poji: a Fiji-based tool for analysis of podosomes and associated proteins” by Herzog et al.; Journal of Cell Science, 2020, doi: 10.1242/jcs.238964"
+"Poji: a Fiji-based tool for analysis of podosomes and associated proteins” by Herzog et al.; Journal of Cell Science, 2020, doi: 10.1242/jcs.238964"
 
 The macro code and the associated Excel tables have been tested and verified with manually calculated results as much as possible to rule out potential errors. We are quite confident to state that all works as intended. Since hidden errors could still be present, we strongly advise every user to have a careful eye on their results as they are responsible for their own data. If you notice an apparent error or obtain results that do not match with a manual confirmation of the same sample, please feel free to contact the first author at r.herzog@uke.de.
 
