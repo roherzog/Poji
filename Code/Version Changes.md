@@ -1,3 +1,8 @@
+# Poji
+
+v1,00:
+Version as presented in the associated publication
+
 # Split and Save Channels
 
 
