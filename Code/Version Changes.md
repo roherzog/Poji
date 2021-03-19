@@ -38,10 +38,10 @@ Changed: Parameters table and ROIs are now saved only once for stack analyses, i
 
 Changed: High number of small changes, that ensure correct loading and saving of data in the correct order and to prevents crashes due to sample naming.
 
-Changed: "Noise" in find-maxima function changed to "prominence" as it is in the official wording of FIJI. This might change the number of detected podosomes in comparison to the old version slightly, but is in line with the current state of the function.
 
 Removed: The compatibility with hyperstacks removes the need for one folder that is filled with the same slice for stack analysis. Reference channel and slice for stack analysis can now be assigned in in the hyperstack during the macro. Reference channel and slice can be freely chosen inbetween images and even in between different cells on the same image.
 
+Updated: "Noise" in find-maxima function changed to "prominence" as it is in the official wording of FIJI. This might change the number of detected podosomes in comparison to the old version slightly, but is in line with the current state of the function.
 
 # Split and Save Channels (not needed anymore for Poji versions v2,00 and higher)
 
