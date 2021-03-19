@@ -10,3 +10,9 @@
 8. Optional: Draw podosome clusters inside the isolated cells. Podosomes will only be detected in this area. Several ROIs per cell can be assigned. This step can be skipped without assigning a cluster; podosome detection will then be done in entire cell area.
 9. Set up detection parameters. Pressing 'OK' will show a preview image with current parameters. To save the current parameters and to proceed, deactivate the preview function. Note the restrictions for this step (circle size >0; square size >1; podosome number >1).
 10. Macro will automatically do the rest. Wait until the process bar disappeares, only then is the macro finished.  
+
+To change default setings go to code lines:
+11 (change default channel names);
+110-123 (default analysis options)
+138-139 (Default profile rotation options)
+366-369 + 422 (Default parameter options) 
