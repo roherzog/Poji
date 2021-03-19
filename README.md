@@ -16,3 +16,4 @@ The macros and associated tables may be updated. The latest versions will always
 
 Current update in progress:
 Improvement of stack analysis, support of hyperstacks (no splitting needed anymore).
+Edit 19.03.2021: Poji v2,00 with new functions uploaded. 
