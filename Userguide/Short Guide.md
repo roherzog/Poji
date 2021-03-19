@@ -13,6 +13,6 @@
 
 To change default settings go to code lines:
 11 (change default channel names);
-110-123 (default analysis options)
-138-139 (Default profile rotation options)
-366-369 + 422 (Default parameter options) 
+110-123 (default analysis options);
+138-139 (Default profile rotation options);
+366-369 + 422 (Default parameter options).
