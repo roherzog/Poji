@@ -1,4 +1,4 @@
-# Until update of userguide for v2,00 gets uploaded, userguide for v1,10 is valid and this short guide can be used to navigate through all updated interfaces
+# Until update of userguide for v2,10 gets uploaded, userguide for v1,10 is valid and this short guide can be used to navigate through all updated interfaces
 
 1. Images have to be present inside a single folder (if hyperstacks) or split by channels in different folders. Folders shall only contain images and no subfolders. Hyperstacks shall have the same amount and order of channels (number of slices can differ). 
 2. Start the macro.
@@ -17,7 +17,7 @@ To change default settings go to code lines:
 138-139 (Default profile rotation options);
 366-369 + 422 (Default parameter options).
 
-For V2,10 these lines are: 
+For v2,10 these lines are: 
 14 (change default channel names);
 121-132 (default analysis options);
 151-152 (Default profile rotation options);
