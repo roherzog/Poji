@@ -43,6 +43,10 @@ Removed: The compatibility with hyperstacks removes the need for one folder that
 
 Updated: "Noise" in find-maxima function changed to "prominence" as it is in the official wording of FIJI. This might change the number of detected podosomes in comparison to the old version slightly, but is in line with the current state of the function.
 
+v2,10: 
+(in short, update coming soon)
+Includes information about voxel instead of just pixel, rearranged analysis ables to make data handling easier, fixed UI errors due to FIJI-version changes, include quick 3D overview of podosomes in results folder
+
 # Split and Save Channels (not needed anymore for Poji versions v2,00 and higher)
 
 
